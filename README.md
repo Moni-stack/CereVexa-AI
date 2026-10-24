@@ -7,7 +7,8 @@ The project combines **Convolutional Neural Networks (CNNs), U-Net segmentation,
 
 ---
 
-![Uploading Screenshot (1698).png…]()
+<img width="2560" height="1600" alt="Screenshot (1698)" src="https://github.com/user-attachments/assets/084baab8-a735-4b01-8d23-282d9cf344a2" /><img width="2560" height="1600" alt="Screenshot (1698)" src="https://github.com/user-attachments/assets/0ca99cfc-8df7-465c-95ae-b4b68c80edbe" />
+
 
 
 ## ✨ Key Features
